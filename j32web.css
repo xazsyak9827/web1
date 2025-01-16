@@ -1,0 +1,27 @@
+body	{ background-color:#d2fffe; 
+	  background-position: right top;
+	  background-repeat: no-repeat;
+	  background-image: url("j32logo.png"); }
+
+table	{ border-spacing: 20px; 
+	  border-color: #000000;
+	  border-collapse: collapse;
+	  margin-left: 0;
+	  margin-right: auto;}
+
+td	{ padding: 20px;}
+
+h1 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #000040;
+	  text-align: center;
+	  font-size: 48pt; }
+
+h2 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #000040;
+	  text-align: center;
+	  font-size: 24pt; }
+
+p 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #000040;
+	  text-align: justify;
+	  font-size: 12pt; }
